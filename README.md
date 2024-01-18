@@ -16,5 +16,5 @@ sistema de administracion de academia de artes marciales utilizando PHP,HTML,CSS
 # Descripcion de proyecto
 Este proyecto trata de la elaboracion de un sistema de administracion para una academia de artes marciales,
 por lo cual se optara por la creacion de el sistema como una aplicacion web utilizando los lenguajes de programacion;
-PHP,HTML,CSS,Javascript,SQL 
+PHP,HTML,CSS,Javascript,SQL.
   
