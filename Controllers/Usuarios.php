@@ -1,4 +1,4 @@
-<?php
+<?php 
 class Usuarios extends Controller{
     public function __construct() {
         session_start();

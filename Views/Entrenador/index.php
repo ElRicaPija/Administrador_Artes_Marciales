@@ -1,4 +1,4 @@
-<?php include "Views/Templates/header.php"; ?>
+<?php include "Views/Templates/header.php"; ?> 
 <button class="btn btn-outline-primary mb-2" type="button" onclick="frmEnt();"><i class="fas fa-plus"></i></button>
 
 <div class="card shadow-lg">

@@ -1,4 +1,4 @@
-<?php
+<?php 
 class AsistenciasModel extends Query
 {
     public function __construct()

@@ -1,4 +1,4 @@
-<?php
+<?php 
 class Query extends Conexion{
     private $pdo, $con, $sql, $datos;
     public function __construct() {

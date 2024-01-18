@@ -1,4 +1,4 @@
-<?php include "Views/Templates/header.php"; ?>
+<?php include "Views/Templates/header.php"; ?> 
 
 <div class="row grid-margin">
     <div class="col-12">

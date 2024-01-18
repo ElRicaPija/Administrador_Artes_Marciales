@@ -1,4 +1,4 @@
-<?php
+<?php 
 function strClean($cadena)
 {
     $string = preg_replace(['/\s+/','/^\s|\s$/'],[' ',''], $cadena);

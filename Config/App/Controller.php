@@ -1,4 +1,4 @@
-<?php
+<?php 
 class Controller{
     public $views, $model;
     public function __construct()

@@ -1,4 +1,4 @@
-<?php
+<?php 
 class RutinasModel extends Query
 {
     public function __construct()

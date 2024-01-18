@@ -31,5 +31,5 @@ if (file_exists($dirControllers)) {
     }
 } else {
     header('Location: ' . base_url . 'Errors');
-}
+}  
 ?>

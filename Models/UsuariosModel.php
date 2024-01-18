@@ -1,4 +1,4 @@
-<?php
+<?php 
 class UsuariosModel extends Query{
     public function __construct()
     {

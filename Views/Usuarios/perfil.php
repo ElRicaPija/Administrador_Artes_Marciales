@@ -1,4 +1,4 @@
-<?php include "Views/Templates/header.php"; ?>
+<?php include "Views/Templates/header.php"; ?> 
 <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12">
         <div class="card shadow-lg">

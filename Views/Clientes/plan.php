@@ -1,4 +1,4 @@
-<?php include "Views/Templates/header.php"; ?>
+<?php include "Views/Templates/header.php"; ?> 
 <button class="btn btn-outline-info mb-2" type="button" data-toggle="modal" data-target="#modalPago">Agregar Pago</button>
 <div class="card shadow-lg">
     <div class="card-body">

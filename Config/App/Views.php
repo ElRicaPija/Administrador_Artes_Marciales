@@ -1,4 +1,4 @@
-<?php
+<?php 
 class Views{
 
     public function getView($controlador, $vista, $data="")

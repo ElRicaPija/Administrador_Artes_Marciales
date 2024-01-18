@@ -1,4 +1,4 @@
-<?php
+<?php 
 class ClientesModel extends Query{
     public function __construct()
     {

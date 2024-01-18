@@ -1,4 +1,4 @@
-<?php
+<?php 
 class EntrenadorModel extends Query
 {
     public function __construct()

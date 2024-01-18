@@ -1,4 +1,4 @@
-<?php
+<?php 
 class PlanesModel extends Query
 {
     public function __construct()
